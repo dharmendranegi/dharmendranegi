@@ -15,5 +15,5 @@ Hi, i'm [Dharmendra Negi] (<https://github.com/dharmendranegi>), a passionate se
   <img align="left" alt="Dharmendra's LinkedIN" width="22px" src="./img/linkedin.svg?raw=true" />
 </a>
 <a href="https://stackoverflow.com/users/9763002/dharmendra-singh-negi">
-  <img align="left" alt="Dharmendra's Stack Overflow" width="22px" src="./img/stackoverflow.png?raw=true" />
+  <img align="left" alt="Dharmendra's Stack Overflow" width="100px" src="./img/stackoverflow.png?raw=true" />
 </a>
