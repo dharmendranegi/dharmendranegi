@@ -1,6 +1,6 @@
 ### Hey! Nice to see you.👋
 
-Hi, i'm [Dharmendra Negi] (https://github.com/dharmendranegi), a passionate self-taught serverless developer from India
+Hi, i'm Dharmendra Negi, a passionate self-taught serverless developer from India
 
 - 🔭 Working on serverless application development.
 - 🌱 Serverless Enthusiast.
