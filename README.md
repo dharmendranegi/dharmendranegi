@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey! Nice to see you.👋
 
-<!--
-**dharmendranegi/dharmendranegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, i'm [Dharmendra Negi] (<https://github.com/dharmendranegi>), a passionate self-taught serverless developer from India
 
-Here are some ideas to get you started:
+- 🔭 Working on serverless application development.
+- 🌱 Serverless Enthusiast.
+- 💬 Ask me about aws serverless, serverless framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where to find me
+
+<a href="https://twitter.com/dharmendra_snegi">
+  <img align="left" alt="Dharmendra Negi | Twitter" width="22px" src="./img/twitter.svg?raw=true" />
+</a>
+<a href="https://www.linkedin.com/in/dharmendra-negi/">
+  <img align="left" alt="Dharmendra's LinkedIN" width="22px" src="./img/linkedin.svg?raw=true" />
+</a>
+<a href="https://stackoverflow.com/users/9763002/dharmendra-singh-negi">
+  <img align="left" alt="Dharmendra's Stack Overflow" width="22px" src="./img/stackoverflow.png?raw=true" />
+</a>
