@@ -8,7 +8,7 @@ Hi, i'm [Dharmendra Negi] (<https://github.com/dharmendranegi>), a passionate se
 
 ### Where to find me
 
-<a href="https://twitter.com/dharmendra_snegi">
+<a href="https://twitter.com/dharm_snegi">
   <img align="left" alt="Dharmendra Negi | Twitter" width="22px" src="./img/twitter.svg?raw=true" />
 </a>
 <a href="https://www.linkedin.com/in/dharmendra-negi/">
